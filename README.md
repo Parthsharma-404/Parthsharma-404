@@ -94,7 +94,7 @@ Skilled in MERN Stack, REST APIs, and modern frontend technologies.
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Code.+Build.+Innovate.;Full+Stack+Developer+from+India.;Always+Learning+New+Things.;Turning+Ideas+into+Reality."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Code.+Build.+Innovate.;Full+Stack+Developer.;Always+Learning+New+Things.;Turning+Ideas+into+Reality."/>
 
 </p>
 

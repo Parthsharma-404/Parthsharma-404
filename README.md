@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Banner(2).png" alt="Parth Sharma Banner" width="100%" />
+  <img src="./Banner.png" alt="Parth Sharma Banner" width="100%" />
 </p>
 
 ---
